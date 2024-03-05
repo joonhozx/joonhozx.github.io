@@ -6,11 +6,11 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Junwon Lee
+name: Joonho Chang
 title: Ph.D. student
-email: zini9405@gmail.com
+email: joonnozx@gmail.com
 # email_title: Email (Email title override)
-# phone: +82 10-5487-4484
+# phone: +82 10-7122-9108
 # phone_title: Phone (Phone title override)
 # website: https://sites.google.com/view/kvl
 # website_title: KNU Vision & Learning Lab
@@ -27,7 +27,7 @@ darkmode: false
 
 # Social links
 # twitter_username: jekyllrb
-github_username: zini9405
+# github_username: 
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -38,7 +38,7 @@ github_username: zini9405
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # orcid_username: 0000-0000-0000-0000
-googlescholar_username: 9bsecQIAAAAJ&hl=ko
+# googlescholar_username: 9bsecQIAAAAJ&hl=ko
 
 # Additional icon links
 # additional_links:
@@ -60,11 +60,7 @@ googlescholar_username: 9bsecQIAAAAJ&hl=ko
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Junwon.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! I am a Ph.D. student at [KNU Vision & Learning Lab](https://sites.google.com/view/kvl), receiving guidance from Prof. <mark>Heechul Jung</mark>. My current research interests focus on Video Recognition, Domain Adaptation, and Timeseries Analysis. Furthermore, I am also interested in applying these technologies to Medical Image Analysis.
-
-  Besides research, I am also interested in watching movies and playing games.
-    - Harry Potter series
-    - Teamfight Tactics
+  I am an experienced AI and software engineer with expertise in computer vision, time series analysis, and software development. Currently, I am a doctoral candidate in the Department of Artificial Intelligence at Kyungpook National University, conducting research in AI-based medical imaging, time series analysis, and image generation. Additionally, I am proficient in developing models for limited data and enhancing generalization performance by mitigating data imbalance and overfitting problems. With 6 years of experience in AI research and Python, I possess skills in utilizing AI frameworks such as TensorFlow and PyTorch for model development and performance enhancement. Building upon these skills and experience, I have successfully completed numerous national and industrial projects.
   
 # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
 #   - Lists
@@ -81,48 +77,61 @@ content:
         # sub_title: Integrated Master's & Ph.D in Artificial Intelligence, KNU
         # caption: Dec. 2023 - Current, Prof. Heechul Jung
         description: | # this will include new lines to allow paragraphs
-          - Integrated Master's & Ph.D in Artificial Intelligence, KNU
-          - Dec. 2023 - Current, Prof. Heechul Jung
-          - Sep. 2020 - Nov. 2023, Prof. Minho Lee
+          -  h.D in Artificial Intelligence, KNU
+          - Dec. 2023 - Current (, Prof. Heechul Jung
+          - Mar. 2021 - Nov. 2023, Prof. Minho Lee
+
       - layout: left
         title: Kyungpook National University
         # sub_title: B.S. in Mathematics and Electronic Engineering (Double Major), KNU
         # caption: Mar. 2015 - Aug. 2020
         description: | # this will include new lines to allow paragraphs
-          - B.S. in Mathematics and Electronic Engineering (Double Major), KNU
-          - Mar. 2015 - Aug. 2020, Prof. Aeryeong Seo
+          - M.S. in Electtronic Engineering (Artificial Intelligence), KNU
+          - Mar. 2019 - Feb. 2021, Prof. Minho Lee
+          - Thesis: “Adaptive R-CNN with Center Surround Difference for Hemorrhage Segmentation in CT Images”
 
-  - title: INTERNATIONAL JOURNAL
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - Hwang, K*., Lee, J*., Jalali, A., & Lee, M. (2023). Predicting the Refrigerant Amounts across Air Conditioners with a Domain Adaptive Lightweight Transformer. IEEE Transactions on Consumer Electronics. (* equal contributions)
-      - Baek, S., Kim, J., Lee, J., & Lee, M. (2023). Implementation of a Virtual Assistant System Based on Deep Multi-modal Data Integration. Journal of Signal Processing Systems, 1-11.
-      
-  - title: INTERNATIONAL CONFERENCES
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - Lee, J., Hwang, K., Kwak, M. & Lee, M. (2022). Domain adaptation training of a transformer. IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia), pp. 1–5.
-      
-  - title: DOMESTIC CONFERENCES (IN KOREAN)
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - Lee, J., Lee, M. (2023). Utilizing Artificial Intelligence for Battlefield Situation Recognition. Korea Institute of Military Science and Technology (KIMST).
-      - Lee, J., Lee, M. (2023). Artificial Intelligence to recognize battlefield situation. COGNITIVE SCIENCE.
-      - Lee, J., Lee, M. (2022). Memory-augmented Video Understanding for capturing temporal context. COGNITIVE SCIENCE.
+      - layout: left
+        title: Kyungpook National University
+        # sub_title: B.S. in Mathematics and Electronic Engineering (Double Major), KNU
+        # caption: Mar. 2015 - Aug. 2020
+        description: | # this will include new lines to allow paragraphs
+          - B.S. in Electtronic Engineering (Signal Processing), KNU
+          - Mar. 2015 - Feb. 2019,
 
-  - title: PATENT (IN KOREAN)
+  - title: PUBLICATION
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Lee, M., Lee, J., Bae, J. (2021). Online Action Proposal Generation Method and Action Proposal Generation Device Using Spatio-Temporal Attention Networks. KR Patent 10-2021-0190265
-      - Lee, M., Lee, J., Park, H. (2021). Region DeIVE Pre-Learning Method with Self-Attention Towards Visual Question Answering and Pre-Learning Device Performing the Same. KR Patent 10-2021-0182951
-      - Lee, M., Lee, J., Park, T. (2021). Multi-Model Hierarchical Reasoning Method Based on Cognitive Behavioral Cycle, and Device for Performing It. KR Patent 10-2021-0162397
+      - Joonho Chang, Inchul Choi, & Minho Lee. (2023). PESA R-CNN: Perihematomal Edema Guided Scale Adaptive R-CNN for Hemorrhage Segmentation. (IEEE Journal of Biomedical and Health Informatics, IF:7.7, JCR Top 6%)
+      - Changwan Kang, Joonho Chang, & Minho Lee (2023). Convolutional Neural Networks for Predicting Mortality Rate and Length of Stay in Intensive Care Unit Patients with Data Imbalance. (Conference of the Society of Medical Informatics)
+      - Joonho Chang & Minho Lee(2023). HMV-GAN: generate hand bone images in multi-view direction (Brain Engineering Society of Korea)
+      - Joonho Chang & Minho Lee(2021). Adaptive R-CNN with Center Surround Difference for Hemorrhage Segmentation in CT images (Brain Engineering Society of Korea) 
   
-  - title: SOFTWARE (IN KOREAN)
+  - title: PATENT
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Lee, M., Lee, J. (2023). Distribution Improvement Network Domains. KR Software C-2023-061726
-      - Lee, M., Lee, J. (2023). Detection of Sensor Data Errors with AI. KR Software C-2023-061725
+      - Joonho Chang & Minho Lee (2023). (US) Deep Neural Network-based Cerebral Hemorrhage Diagnosis System. 18/033.063 
+      - Joonho Chang & Minho Lee (2023). (EPO) Deep Neural Network-based Cerebral Hemorrhage Diagnosis System. 21883174.1 
+      - Joonho Chang & Minho Lee (2021). (PCT) Cerebral Hemorrhage Diagnosis System Using Deep Neural Network. PCT/KR2021/014543 
+      
+  - title: PATENT 
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Joonho Chang, Jalali Amin, Minho Lee (2023). (KR) Apparatus and method for predicting length of stay and mortality rate of patients in intensive care unit. 10-2600493-00-00 
+      - Joonho Chang, Jalali Amin, Jonghong Kim, Jeongho Hong, & Minho Lee (2023). (KR) Patient status analysis system in the intensive care unit based on deep neural network. 10-2598101-00-00 
+      - Joonho Chang & Minho Lee (2023). (KR) Cerebral hemorrhage diagnosis system using deep neural network. 10-2528727-00-00
 
+  - title: PATENT 
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Joonho Chang, Doyoung Kwon, Jinhan Lee, Changuk Oh, Donghyun Kin, & Minho Lee (2024). (KR) Apparatus and method for diagnosis of atypical femur fracture based on artificial intelligence. 10-2024-0012171 
+      - Joonho Chang, Inchul Choi, Hyunjoo Lee, & Minho Lee (2023). (KR) Patient status analysis system in the intensive care unit based on deep neural network. 10-2598101-00-00 
+      - Joonho Chang & Minho Lee (2023). (KR) 3D CT image generation device and method based on Generative Adversarial Network. 10-2023-0188097 
+  
+  - title: SOFTWARE
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Mortality prediction model for intensive care unit patients with neurological disorder. (2023) KR Software ASSET_0009888 
+      - Length of Stay prediction model for intensive care unit patients with neurological disorder. (2023) KR Software ASSET_0009889 
 
   
   - title: PROJECTS # Title for the section
@@ -153,19 +162,14 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Agency for Defense Development
         description: | # this will include new lines to allow paragraphs
-          - Research on Video Target Recognition Technology Based on Non-Invasive BCI, Apr. 2023 - Feb. 2024.
-          - Research on Automatic Generation of Report Sentences Through Situation Awareness (MX-41), Jan. 2023 - Dec. 2022.
+          - Dec. 2019 - Dec. 2020. Research on automatic generation of report sentences through situation awareness (MX-41)
       
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: LG Electronics Inc.
         description: | # this will include new lines to allow paragraphs
-          - Development of a Universal Model for Refrigerant Shortage Classification Using Artificial Intelligence, Jan. 2024 - Dec. 2024.
-          - Optimal Operation Algorithm of Air Conditioners for Energy Saving and Comfort in Space Using Reinforcement Learning, April. 2023 - April. 2023.
-          - Technology for Improving the Accuracy of Refrigerant Quantity Detection, Dec. 2022 - Nov. 2023.
-          - Development of Air Conditioner Auto-Operation Logic and Lightweight Model Based on Customer Usage Pattern Learning, Sep. 2022 - Sep. 2023.
-          - Refrigerant Quantity Detection Technology, Sep. 2021 - Aug. 2022.
+          - Jan. 2024 - Current. Development of a Universal Model for Refrigerant Shortage Classification Using Artificial Intelligence.
   
   # - title: A Little More About Me
   #   layout: text
