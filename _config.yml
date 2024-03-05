@@ -78,7 +78,7 @@ content:
         # caption: Dec. 2023 - Current, Prof. Heechul Jung
         description: | # this will include new lines to allow paragraphs
           -  h.D in Artificial Intelligence, KNU
-          - Dec. 2023 - Current (, Prof. Heechul Jung
+          - Dec. 2023 - Current, Prof. Heechul Jung
           - Mar. 2021 - Nov. 2023, Prof. Minho Lee
 
       - layout: left
@@ -103,8 +103,8 @@ content:
     content: | # this will include new lines to allow paragraphs
       - Joonho Chang, Inchul Choi, & Minho Lee. (2023). PESA R-CNN: Perihematomal Edema Guided Scale Adaptive R-CNN for Hemorrhage Segmentation. (IEEE Journal of Biomedical and Health Informatics, IF:7.7, JCR Top 6%)
       - Changwan Kang, Joonho Chang, & Minho Lee (2023). Convolutional Neural Networks for Predicting Mortality Rate and Length of Stay in Intensive Care Unit Patients with Data Imbalance. (Conference of the Society of Medical Informatics)
-      - Joonho Chang & Minho Lee(2023). HMV-GAN: generate hand bone images in multi-view direction (Brain Engineering Society of Korea)
-      - Joonho Chang & Minho Lee(2021). Adaptive R-CNN with Center Surround Difference for Hemorrhage Segmentation in CT images (Brain Engineering Society of Korea) 
+      - Joonho Chang & Minho Lee (2023). HMV-GAN: generate hand bone images in multi-view direction (Brain Engineering Society of Korea)
+      - Joonho Chang & Minho Lee (2021). Adaptive R-CNN with Center Surround Difference for Hemorrhage Segmentation in CT images (Brain Engineering Society of Korea) 
   
   - title: PATENT
     layout: text
@@ -151,11 +151,16 @@ content:
                       # other value (or no value) means no border will be displayed
         title: National Research Foundation of Korea 
         description: | # this will include new lines to allow paragraphs
-          - Exploration of Problem-Solving Educational Content Using an Artificial Intelligence Platform, Jul. 2023 - Dec. 2023.
-          - Establishment of an AI Solution Consulting Process to Activate Industry-Academia-Research Cooperation, Sep. 2022 - Jan. 2023.
-          - Construction of a Metaverse Virtual Library Using Deep Learning-Based Deciphering of Traditional Records, Aug. 2022 - Feb. 2024.
-          - Creating, Utilizing, and Augmenting Knowledge Through Conversation with an Artificial Intelligence Agent, Mar. 2022 - Aug. 2024.
-          - Recognition and Deciphering of Traditional Record Characters Using Deep Learning Technology, Mar. 2021 - Jul. 2021.
+          - July. 2022 - Jan. 2023. AI programming education utilizing challenge-based pair-programming
+          - July. 2022 - current. Establishing a world-first medical technology commercialization platform based on K-Leading Tech to secure global competitiveness.
+          - June. 2022 - current. Deciphering traditional records using deep learning for the construction of a virtual Confucian Academy in the metaverse          - Creating, Utilizing, and Augmenting Knowledge Through Conversation with an Artificial Intelligence Agent, Mar. 2022 - Aug. 2024.
+          - Apr. 2021 – Dec. 2023. Building specialized big data for critical care patients and developing an AI-based Clinical Decision Support System (CDSS)
+          - Mar. 2021 – Feb 2023. Artificial Intelligence agent that Generates, Utilizes, and Augments Knowledge Through Conversation 
+          - Apr. 2020 - Dec. 2023. Development of AI imaging diagnostic technology for integration into medical devices
+          - Nov. 2020 - July. 2021. Recognition and deciphering of traditional record characters using advanced deep learning technology.
+          - Jan. 2020 – Mar. 2021. Development of intelligent SW technology for medical data analysis.
+          - May. 2019- Dec. 2020. Research and development of intelligent interaction technology capable of understanding user intent and context.
+          
           
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
