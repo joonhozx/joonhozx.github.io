@@ -109,9 +109,9 @@ content:
   - title: INTERNATIONAL PATENT
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Joonho Chang & Minho Lee (2023). (US) Deep Neural Network-based Cerebral Hemorrhage Diagnosis System. 18/033.063 
-      - Joonho Chang & Minho Lee (2023). (EPO) Deep Neural Network-based Cerebral Hemorrhage Diagnosis System. 21883174.1 
-      - Joonho Chang & Minho Lee (2021). (PCT) Cerebral Hemorrhage Diagnosis System Using Deep Neural Network. PCT/KR2021/014543 
+      - Joonho Chang & Minho Lee. (US) Deep Neural Network-based Cerebral Hemorrhage Diagnosis System. Application (2023), 18/033.063 
+      - Joonho Chang & Minho Lee. (EPO) Deep Neural Network-based Cerebral Hemorrhage Diagnosis System. Application (2023), 21883174.1 
+      - Joonho Chang & Minho Lee. (PCT) Cerebral Hemorrhage Diagnosis System Using Deep Neural Network. Application (2021), PCT/KR2021/014543 
       
   - title: DOMESTIC PATENT
     layout: text
