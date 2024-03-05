@@ -58,7 +58,7 @@ darkmode: false
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/Junwon.jpeg
+about_profile_image: images/Joonho.jpeg
 about_content: | # this will include new lines to allow paragraphs
   I am an experienced AI and software engineer with expertise in computer vision, time series analysis, and software development. Currently, I am a doctoral candidate in the Department of Artificial Intelligence at Kyungpook National University, conducting research in AI-based medical imaging, time series analysis, and image generation. Additionally, I am proficient in developing models for limited data and enhancing generalization performance by mitigating data imbalance and overfitting problems. With 6 years of experience in AI research and Python, I possess skills in utilizing AI frameworks such as TensorFlow and PyTorch for model development and performance enhancement. Building upon these skills and experience, I have successfully completed numerous national and industrial projects.
   
