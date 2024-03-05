@@ -106,45 +106,27 @@ content:
       - Joonho Chang & Minho Lee (2023). HMV-GAN: generate hand bone images in multi-view direction (Brain Engineering Society of Korea)
       - Joonho Chang & Minho Lee (2021). Adaptive R-CNN with Center Surround Difference for Hemorrhage Segmentation in CT images (Brain Engineering Society of Korea) 
   
-  - title: PATENT
+  - title: INTERNATIONAL PATENT
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Joonho Chang & Minho Lee (2023). (US) Deep Neural Network-based Cerebral Hemorrhage Diagnosis System. 18/033.063 
       - Joonho Chang & Minho Lee (2023). (EPO) Deep Neural Network-based Cerebral Hemorrhage Diagnosis System. 21883174.1 
       - Joonho Chang & Minho Lee (2021). (PCT) Cerebral Hemorrhage Diagnosis System Using Deep Neural Network. PCT/KR2021/014543 
       
-  - title: PATENT 
+  - title: DOMESTIC PATENT
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Joonho Chang, Jalali Amin, Minho Lee (2023). (KR) Apparatus and method for predicting length of stay and mortality rate of patients in intensive care unit. 10-2600493-00-00 
-      - Joonho Chang, Jalali Amin, Jonghong Kim, Jeongho Hong, & Minho Lee (2023). (KR) Patient status analysis system in the intensive care unit based on deep neural network. 10-2598101-00-00 
-      - Joonho Chang & Minho Lee (2023). (KR) Cerebral hemorrhage diagnosis system using deep neural network. 10-2528727-00-00
-
-  - title: PATENT 
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - Joonho Chang, Doyoung Kwon, Jinhan Lee, Changuk Oh, Donghyun Kin, & Minho Lee (2024). (KR) Apparatus and method for diagnosis of atypical femur fracture based on artificial intelligence. 10-2024-0012171 
-      - Joonho Chang, Inchul Choi, Hyunjoo Lee, & Minho Lee (2023). (KR) Patient status analysis system in the intensive care unit based on deep neural network. 10-2598101-00-00 
-      - Joonho Chang & Minho Lee (2023). (KR) 3D CT image generation device and method based on Generative Adversarial Network. 10-2023-0188097 
+      - Joonho Chang, Jalali Amin, Minho Lee. Apparatus and method for predicting length of stay and mortality rate of patients in intensive care unit. Granted (2023), 10-2600493-00-00 / Applcation (2023), 10-2023-0036401
+      - Joonho Chang, Jalali Amin, Jonghong Kim, Jeongho Hong, & Minho Lee. Patient status analysis system in the intensive care unit based on deep neural network. Granted (2023), 10-2598101-00-00 / Applcation (2022), 10-2022-0078274 
+      - Joonho Chang & Minho Lee). Cerebral hemorrhage diagnosis system using deep neural network. Granted(2023), 10-2528727-00-00 / Application (2020), 10-2020-0137614 
+      - Joonho Chang, Doyoung Kwon, Jinhan Lee, Changuk Oh, Donghyun Kin, & Minho Lee. Apparatus and method for diagnosis of atypical, femur fracture based on artificial intelligence. Application (2024), 10-2024-0012171 
+      - Joonho Chang & Minho Lee. 3D CT image generation device and method based on Generative Adversarial Network. Application (2023), 10-2023-0188097 
   
   - title: SOFTWARE
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Mortality prediction model for intensive care unit patients with neurological disorder. (2023) KR Software ASSET_0009888 
       - Length of Stay prediction model for intensive care unit patients with neurological disorder. (2023) KR Software ASSET_0009889 
-
-  
-  - title: PROJECTS # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Institute of Information & communications Technology Planning & Evaluation
-        description: | # this will include new lines to allow paragraphs
-          - Research on Innovative Technologies for Prediction Intelligence Based on Complex Information, Jan. 2021 - Dec. 2023.
-          - Development of Intelligent SW Technology for Medical Data Analysis, Sep. 2020 - Feb. 2021.
-         
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
