@@ -128,6 +128,9 @@ content:
       - Mortality prediction model for intensive care unit patients with neurological disorder. (2023) KR Software ASSET_0009888 
       - Length of Stay prediction model for intensive care unit patients with neurological disorder. (2023) KR Software ASSET_0009889 
 
+  - title: PROJECTS # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
