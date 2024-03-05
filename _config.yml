@@ -74,7 +74,7 @@ content:
     content:
       - layout: left
         title: Kyungpook National University
-        # sub_title: Integrated Master's & Ph.D in Artificial Intelligence, KNU
+        # sub_title: Integrated Master's & Ph.D in Artificial Intelligence
         # caption: Dec. 2023 - Current, Prof. Heechul Jung
         description: | # this will include new lines to allow paragraphs
           -  Ph.D in Artificial Intelligence, KNU
@@ -83,16 +83,16 @@ content:
 
       - layout: left
         title: Kyungpook National University
-        # sub_title: B.S. in Mathematics and Electronic Engineering (Double Major), KNU
+        # sub_title: B.S. in Mathematics and Electronic Engineering (Double Major)
         # caption: Mar. 2015 - Aug. 2020
         description: | # this will include new lines to allow paragraphs
-          - M.S. in Electtronic Engineering (Artificial Intelligence), KNU
+          - M.S. in Electtronic Engineering (Artificial Intelligence)
           - Mar. 2019 – Feb. 2021, Prof. Minho Lee
           - Thesis: “Adaptive R-CNN with Center Surround Difference for Hemorrhage Segmentation in CT Images”
 
       - layout: left
         title: Kyungpook National University
-        # sub_title: B.S. in Mathematics and Electronic Engineering (Double Major), KNU
+        # sub_title: B.S. in Mathematics and Electronic Engineering (Double Major)
         # caption: Mar. 2015 - Aug. 2020
         description: | # this will include new lines to allow paragraphs
           - B.S. in Electtronic Engineering (Signal Processing), KNU
