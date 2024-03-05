@@ -101,7 +101,7 @@ content:
   - title: PUBLICATION
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Joonho Chang**, Inchul Choi, & Minho Lee. (2023). PESA R-CNN: Perihematomal Edema Guided Scale Adaptive R-CNN for Hemorrhage Segmentation. (IEEE Journal of Biomedical and Health Informatics, IF:7.7, JCR Top 6%)
+      - **Joonho Chang**, `Inchul Choi`, & Minho Lee. (2023). PESA R-CNN: Perihematomal Edema Guided Scale Adaptive R-CNN for Hemorrhage Segmentation. (IEEE Journal of Biomedical and Health Informatics, IF:7.7, JCR Top 6%)
       - Changwan Kang, **Joonho Chang**, & Minho Lee (2023). Convolutional Neural Networks for Predicting Mortality Rate and Length of Stay in Intensive Care Unit Patients with Data Imbalance. (Conference of the Society of Medical Informatics)
       - **Joonho Chang** & Minho Lee (2023). HMV-GAN: generate hand bone images in multi-view direction (Brain Engineering Society of Korea)
       - **Joonho Chang** & Minho Lee (2021). Adaptive R-CNN with Center Surround Difference for Hemorrhage Segmentation in CT images (Brain Engineering Society of Korea) 
