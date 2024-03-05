@@ -102,25 +102,25 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - **Joonho Chang**, Inchul Choi, & Minho Lee. (2023). PESA R-CNN: Perihematomal Edema Guided Scale Adaptive R-CNN for Hemorrhage Segmentation. (IEEE Journal of Biomedical and Health Informatics, IF:7.7, JCR Top 6%)
-      - Changwan Kang, Joonho Chang, & Minho Lee (2023). Convolutional Neural Networks for Predicting Mortality Rate and Length of Stay in Intensive Care Unit Patients with Data Imbalance. (Conference of the Society of Medical Informatics)
-      - Joonho Chang & Minho Lee (2023). HMV-GAN: generate hand bone images in multi-view direction (Brain Engineering Society of Korea)
-      - Joonho Chang & Minho Lee (2021). Adaptive R-CNN with Center Surround Difference for Hemorrhage Segmentation in CT images (Brain Engineering Society of Korea) 
+      - Changwan Kang, **Joonho Chang**, & Minho Lee (2023). Convolutional Neural Networks for Predicting Mortality Rate and Length of Stay in Intensive Care Unit Patients with Data Imbalance. (Conference of the Society of Medical Informatics)
+      - **Joonho Chang** & Minho Lee (2023). HMV-GAN: generate hand bone images in multi-view direction (Brain Engineering Society of Korea)
+      - **Joonho Chang** & Minho Lee (2021). Adaptive R-CNN with Center Surround Difference for Hemorrhage Segmentation in CT images (Brain Engineering Society of Korea) 
   
   - title: INTERNATIONAL PATENT
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Joonho Chang & Minho Lee. (US) Deep Neural Network-based Cerebral Hemorrhage Diagnosis System. Application (2023), 18/033.063 
-      - Joonho Chang & Minho Lee. (EPO) Deep Neural Network-based Cerebral Hemorrhage Diagnosis System. Application (2023), 21883174.1 
-      - Joonho Chang & Minho Lee. (PCT) Cerebral Hemorrhage Diagnosis System Using Deep Neural Network. Application (2021), PCT/KR2021/014543 
+      - **Joonho Chang** & Minho Lee. (US) Deep Neural Network-based Cerebral Hemorrhage Diagnosis System. Application (2023), 18/033.063 
+      - **Joonho Chang** & Minho Lee. (EPO) Deep Neural Network-based Cerebral Hemorrhage Diagnosis System. Application (2023), 21883174.1 
+      - **Joonho Chang** & Minho Lee. (PCT) Cerebral Hemorrhage Diagnosis System Using Deep Neural Network. Application (2021), PCT/KR2021/014543 
       
   - title: DOMESTIC PATENT
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Joonho Chang, Jalali Amin, Minho Lee. Apparatus and method for predicting length of stay and mortality rate of patients in intensive care unit. Granted (2023), 10-2600493-00-00 / Applcation (2023), 10-2023-0036401
-      - Joonho Chang, Jalali Amin, Jonghong Kim, Jeongho Hong, & Minho Lee. Patient status analysis system in the intensive care unit based on deep neural network. Granted (2023), 10-2598101-00-00 / Applcation (2022), 10-2022-0078274 
-      - Joonho Chang & Minho Lee). Cerebral hemorrhage diagnosis system using deep neural network. Granted(2023), 10-2528727-00-00 / Application (2020), 10-2020-0137614 
-      - Joonho Chang, Doyoung Kwon, Jinhan Lee, Changuk Oh, Donghyun Kin, & Minho Lee. Apparatus and method for diagnosis of atypical, femur fracture based on artificial intelligence. Application (2024), 10-2024-0012171 
-      - Joonho Chang & Minho Lee. 3D CT image generation device and method based on Generative Adversarial Network. Application (2023), 10-2023-0188097 
+      - **Joonho Chang**, Jalali Amin, Minho Lee. Apparatus and method for predicting length of stay and mortality rate of patients in intensive care unit. Granted (2023), 10-2600493-00-00 / Applcation (2023), 10-2023-0036401
+      - **Joonho Chang**, Jalali Amin, Jonghong Kim, Jeongho Hong, & Minho Lee. Patient status analysis system in the intensive care unit based on deep neural network. Granted (2023), 10-2598101-00-00 / Applcation (2022), 10-2022-0078274 
+      - **Joonho Chang** & Minho Lee). Cerebral hemorrhage diagnosis system using deep neural network. Granted(2023), 10-2528727-00-00 / Application (2020), 10-2020-0137614 
+      - **Joonho Chang**, Doyoung Kwon, Jinhan Lee, Changuk Oh, Donghyun Kin, & Minho Lee. Apparatus and method for diagnosis of atypical, femur fracture based on artificial intelligence. Application (2024), 10-2024-0012171 
+      - **Joonho Chang** & Minho Lee. 3D CT image generation device and method based on Generative Adversarial Network. Application (2023), 10-2023-0188097 
   
   - title: SOFTWARE
     layout: text
