@@ -78,8 +78,8 @@ content:
         # caption: Dec. 2023 - Current, Prof. Heechul Jung
         description: | # this will include new lines to allow paragraphs
           -  h.D in Artificial Intelligence, KNU
-          - Dec. 2023 - Current, Prof. Heechul Jung
-          - Mar. 2021 - Nov. 2023, Prof. Minho Lee
+          - Dec. 2023 – Current, Prof. Heechul Jung
+          - Mar. 2021 – Nov. 2023, Prof. Minho Lee
 
       - layout: left
         title: Kyungpook National University
@@ -87,7 +87,7 @@ content:
         # caption: Mar. 2015 - Aug. 2020
         description: | # this will include new lines to allow paragraphs
           - M.S. in Electtronic Engineering (Artificial Intelligence), KNU
-          - Mar. 2019 - Feb. 2021, Prof. Minho Lee
+          - Mar. 2019 – Feb. 2021, Prof. Minho Lee
           - Thesis: “Adaptive R-CNN with Center Surround Difference for Hemorrhage Segmentation in CT Images”
 
       - layout: left
@@ -96,7 +96,7 @@ content:
         # caption: Mar. 2015 - Aug. 2020
         description: | # this will include new lines to allow paragraphs
           - B.S. in Electtronic Engineering (Signal Processing), KNU
-          - Mar. 2015 - Feb. 2019,
+          - Mar. 2015 – Feb. 2019,
 
   - title: PUBLICATION
     layout: text
@@ -136,15 +136,15 @@ content:
                       # other value (or no value) means no border will be displayed
         title: National Research Foundation of Korea 
         description: | # this will include new lines to allow paragraphs
-          - July. 2022 - Jan. 2023. AI programming education utilizing challenge-based pair-programming
-          - July. 2022 - current. Establishing a world-first medical technology commercialization platform based on K-Leading Tech to secure global competitiveness.
-          - June. 2022 - current. Deciphering traditional records using deep learning for the construction of a virtual Confucian Academy in the metaverse          
+          - July. 2022 – Jan. 2023. AI programming education utilizing challenge-based pair-programming
+          - July. 2022 – current. Establishing a world-first medical technology commercialization platform based on K-Leading Tech to secure global competitiveness.
+          - June. 2022 – current. Deciphering traditional records using deep learning for the construction of a virtual Confucian Academy in the metaverse          
           - Apr. 2021 – Dec. 2023. Building specialized big data for critical care patients and developing an AI-based Clinical Decision Support System (CDSS)
           - Mar. 2021 – Feb 2023. Artificial Intelligence agent that Generates, Utilizes, and Augments Knowledge Through Conversation 
-          - Apr. 2020 - Dec. 2023. Development of AI imaging diagnostic technology for integration into medical devices
-          - Nov. 2020 - July. 2021. Recognition and deciphering of traditional record characters using advanced deep learning technology.
+          - Apr. 2020 – Dec. 2023. Development of AI imaging diagnostic technology for integration into medical devices
+          - Nov. 2020 – July. 2021. Recognition and deciphering of traditional record characters using advanced deep learning technology.
           - Jan. 2020 – Mar. 2021. Development of intelligent SW technology for medical data analysis.
-          - May. 2019- Dec. 2020. Research and development of intelligent interaction technology capable of understanding user intent and context.
+          - May. 2019 – Dec. 2020. Research and development of intelligent interaction technology capable of understanding user intent and context.
           
           
       - layout: left
